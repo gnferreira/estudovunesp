@@ -1,0 +1,6 @@
+
+body{font-family:Arial,sans-serif;background:#f4f4f4;margin:0}
+.app{max-width:800px;margin:auto;padding:15px}
+button{width:100%;padding:14px;margin:6px 0;border:0;border-radius:8px;background:#1f5fbf;color:#fff}
+.card{background:#fff;padding:15px;border-radius:10px;margin-top:10px}
+.alt{display:block;margin:8px 0;padding:10px;border:1px solid #ddd;border-radius:8px}
